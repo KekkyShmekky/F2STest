@@ -1,0 +1,5 @@
+"classic"
+{
+	"base"		"base"
+	"title"		"F2S: Classic"
+}

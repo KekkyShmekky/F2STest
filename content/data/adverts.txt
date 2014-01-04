@@ -1,0 +1,15 @@
+Press G on your keyboard to deploy special item:1:0:0
+Press V on your keyboard to do melee attack:0:1:1
+Use 3 at top of QWERTY keyboard to switch firemode:1:1:0
+Think before you buy an attachment or weapon!:0:0:1
+It's good to spawn more than one spawn beacon:0:1:1
+Upper part of the sentry is invulnerable against damage:1:1:0
+Sentry's ammo can be replenished by pressing E twice on the body:0:1:0
+Buzzsaw can be picked up after it has finished cutting:0:1:0
+Buzzsaw stops cutting if it recieves any damage:1:0:0
+Tripmines can be toggled on and off by pressing E on it:0:1:0
+It's a good idea to put tripmines in dark places:0.8:0:0
+The laser of tripmine can only be seen by it's owner and teammates:0:0.5:1
+You can switch betwen team and public voice chats by pressing C:0:1:0
+Defibrillators can destroy sentries in a single discharge!!:1:0:0
+Sentries are good for defending a base when you are away, but be careful! They have vulnerabilities!:0:0:1
