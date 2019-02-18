@@ -976,6 +976,11 @@ function GM:PlayerInitialSpawn( ply )
 	ply.InitialSpawn = true
 end
 
+function GM:PlayerSetModel( ply )
+	print(player_manager.TranslatePlayerModel(ply:GetInfo("cl_playermodel")))
+	ply:SetModel( player_manager.TranslatePlayerModel(ply:GetInfo("cl_playermodel")) )
+end
+
 function GM:CanPlayerSuicide( ply )
 	return true
 end
